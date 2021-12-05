@@ -1,5 +1,5 @@
 //37.java program to  perform additon of matrix
-
+//Matrix addition 3x3.
 public class Addmatrix
 {
 	public static void main(String[] args)
