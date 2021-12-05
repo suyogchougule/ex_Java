@@ -1,5 +1,5 @@
 package Basic;
-
+//code changes
 public class Arithmatic {
 
 	public static void main(String[] args)
